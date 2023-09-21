@@ -1,8 +1,48 @@
 body{
     background-color: white; 
 }
+
 #top{
-    border: solid red 10px;
+    border: solid red 12px;
     min-height: 300px;
+    font-size: 70px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
 }
+
+h1{
+background-color: aqua;
+color: black;
+border: solid black 10px;
+text-align: center;
+padding-left: 90px;
+padding-right: 90px;
+}
+
+#Orange{
+    border: solid rgb(248, 187, 73) 12px;
+    min-height: 1000px;
+    color: black;
+}
+
+#guldiv{
+   border: solid black 12px;
+   background-color: yellow;
+   color: black;
+   font-size: 100px;
+   text-align: center;
+   width: 50%;
+   
+}
+
+#rosadiv{
+    border: solid black 12px;
+    background-color: lightpink;
+    color: black;
+    font-size: 120px;
+    text-align: center;
+    width: 49%;
     
+}
+
