@@ -1,3 +1,7 @@
+body{
+    background-color: green;
+}
 #top{
-border: soild ;
+    border: soild red 10 px;
+    min-height: 80px;
 }
