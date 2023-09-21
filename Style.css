@@ -20,13 +20,17 @@ padding-left: 90px;
 padding-right: 90px;
 }
 
-#Orange{
-    border: solid rgb(248, 187, 73) 12px;
-    min-height: 900px;
-    color: black;
-}
+
+
 
 #boxar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border:solid orange 12px;
+    padding-top: 5%;
+    padding-bottom: 5%;
     
 }
 
@@ -36,10 +40,9 @@ padding-right: 90px;
    color: black;
    font-size: 110px;
    text-align: center;
-   width: 49%;
-   display: flex;
-   flex-direction: row;
-   
+   width: 50%;
+   padding: 2%;
+   margin-right: 0.2%;
 }
 
 #höger{
@@ -48,9 +51,9 @@ padding-right: 90px;
     color: black;
     font-size: 110px;
     text-align: center;
-    width: 49%;
-    display: flex;
-    flex-direction: row;
+    width: 50%;
+    padding: 2%;
+    margin-left: 0.2%;
 
 }
 
