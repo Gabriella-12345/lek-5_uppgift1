@@ -1,7 +1,8 @@
 body{
-    background-color: green;
+    background-color: white; 
 }
 #top{
-    border: soild red 10 px;
-    min-height: 80px;
+    border: solid red 10px;
+    min-height: 300px;
 }
+    
